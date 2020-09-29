@@ -3,11 +3,11 @@
 09/28 Deliverables
 
 
-**Lander page** with cards linking to first two lessons in module 1.
+1. **Lander page** with cards linking to first two lessons in module 1.
 
-**Lesson 1** ready for review; still needs outro.
+2. **Lesson 1** ready for review; still needs outro.
 
-**Lesson 2** is a placeholder and only contains section headers.
+3. **Lesson 2** is a placeholder and only contains section headers.
 
 Note that I installed two components that are not standard with Adapt.
 * [adapt-iframe](https://github.com/cgkineo/adapt-iframe)

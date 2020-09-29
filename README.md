@@ -1,4 +1,4 @@
-# Shopify-M1L1
+# Shopify-M1
 
 09/28 Deliverables
 

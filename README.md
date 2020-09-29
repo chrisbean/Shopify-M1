@@ -1,6 +1,7 @@
 # Shopify-M1L1
 
-Lander page with cards for first two lessons in module 1.
+09/28 Deliverables
+**Lander page** with cards linking to first two lessons in module 1.
 
 **Lesson 1** ready for review; still needs outro.
 
